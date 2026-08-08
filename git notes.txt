@@ -1,0 +1,3 @@
+1. To initialize Git in our computer : Git init
+2. To add files in Git in our computer : git add .
+3. To Commit
