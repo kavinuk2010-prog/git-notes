@@ -1,0 +1,3 @@
+name : mridhula
+age : 13
+school :madha public school
